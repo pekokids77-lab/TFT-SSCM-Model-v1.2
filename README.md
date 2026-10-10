@@ -1,6 +1,10 @@
 🌐 Theoretical Framework & Related Projects
-This project is part of the high-dimensional control systems engineering series under the Unified Cybernetics & AICA Architecture:
-
+> ⚠️ **Status: Legacy / Archived Prototype**  
+> 本專案為早期探索性概念模型（Historical Draft），理論體系與嚴格量綱規範現已完全遷移並收斂至：
+> - 核心元架構規範：**[https://github.com/pekokids77-lab/RFC-Negentropy-Meta-Framework-Specification.git]**
+>- 完整心智拓撲控制論 **[(https://github.com/pekokids77-lab/SSCM-Cognitive-Model-.git))](https://github.com/pekokids77-lab/SSCM-Cognitive-Model-.git)**  - 適用：嚴格量綱分析、控制理論推導、多智慧體（Multi-Agent）工程化實作。
+>
+> 建議研究與引用時以最新 RFC 與 SSCM 規格為準。
 Core Whitepaper: AICA Architecture - (https://github.com/pekokids77-lab/AICA-Architecture) Unified High-Dimensional Cybernetics & AGI Introspection Architecture Whitepaper
 
 Swarm Model: MSAG-Model-v1.0.3 - (https://github.com/pekokids77-lab/MSAG-Model-v1.0.3) Swarm Polarization & Infodemic: Spin Alignment & High-Dimensional Predation Model Manifesto
